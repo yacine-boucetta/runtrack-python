@@ -1,0 +1,1 @@
+# pour faire le job 2 ouvrir la console taper le calcul et entrer resultat apparent dans la console 
